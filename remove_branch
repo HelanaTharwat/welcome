@@ -1,0 +1,11 @@
+how to remove the locally branch and remotelly branch
+
+to remote 
+ git push origin :mybranch
+
+
+to local 
+ git branch -d mybranch       if i made marge to his files
+git branch -D mybranch       if i didnt make marge to his files
+
+
